@@ -1,0 +1,8 @@
+{
+  "name": "mycastapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "18f8756a"
+}
